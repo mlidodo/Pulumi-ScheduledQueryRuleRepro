@@ -1,0 +1,4 @@
+config:
+  azure-native:location: westeurope
+  # Set full ARM resource ID to reuse an existing resource group.
+  # resourceGroupId: /subscriptions/<subscription-id>/resourceGroups/<resource-group-name>

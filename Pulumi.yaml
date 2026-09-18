@@ -1,0 +1,4 @@
+name: scheduled-query-rule-repro
+runtime: dotnet
+description: Reproduction for ScheduledQueryRule scope replacement
+
